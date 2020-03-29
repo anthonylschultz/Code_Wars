@@ -4,3 +4,7 @@ green
 blue
 orange
 purple
+
+green
+black
+white
