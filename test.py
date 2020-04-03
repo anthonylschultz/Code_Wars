@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 str = "Jędrzej Błądziński"
 def correct_polish_letters(str): 
     '''
